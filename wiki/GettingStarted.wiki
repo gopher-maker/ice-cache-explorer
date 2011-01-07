@@ -2,13 +2,14 @@
 Instructions how to get going with ICExplorer
 
 = Installation =
-
+tbd
 = How to run =
-
+tbd
 = Loading ICECache data =
-
+tbd
 = Viewing =
-
+tbd
 = Browser =
-
+tbd
 = Export to ascii =
+tbd
