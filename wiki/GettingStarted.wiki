@@ -22,26 +22,29 @@ Or an individual .icecache file.
 You can navigate the 3D view with one of these tools: pan, orbit and zoom. They are all located in the 'Tools' toolbar. You can use view presets to display the ICE cache data: perspective, top, front, right: The presets can be selected from the 'View' toolbar.
  
 = Browser =
-The Browser window contains a tree widget for listing .icecache files information. Since attribute values can be quite large, they are not loaded automatically when cache files are loaded. You can load them with the 'Display Data' context menu by right-clicking the mouse on the attribute name. You can also display all attribute data of a cache by right-clicking on the Cache tree item.
+The Browser window contains a tree widget for listing .icecache files information. The widget is updated when cache files are being loaded, since attribute values can be quite large, they are not loaded automatically. You can load them individually with the 'Display Data' context menu by right-clicking the mouse on the Attribute tree item. You can also display all attribute data of a cache by right-clicking on the Cache tree item.
 
 = Export to ascii =
 File caches can be exported to ascii files:
  * File | Export Cache Folder ...
  * File | Export Cache File ...
 
-You can also export caches from the Browser window by right-clicking on a Cache files or attribute name. 
+note: The target folder is currently hardcoded to 'c:\temp'. 
 
-= Playback =
+You can also export caches from the Browser window by right-clicking on a Cache or Attribute item. 
+
+=Playback=
 The play back window allows you to animate a sequence of cache files. 
 
 ==Controls==
-* > : Play a sequence. Releasing the button stops the sequence.
-* >. : Play one frame forward.
-* .< : Play one frame backward.
-* >| : Move the playback cursor to end.
-* |< : Move the playback cursor to start.
-* @: When the repeat button is pressed, the sequence can be played continously.
+* > Play a sequence. Releasing the button stops the sequence.
+* >. Play one frame forward.
+* .< Play one frame backward.
+* >| Move the playback cursor to end.
+* |< Move the playback cursor to start.
+* @ When the repeat button is pressed, the sequence can be played continously.
 * edit fields: start and end cache number can be specified.
-* Cursor: Move the cursor with the mouse to scroll through cache files.
+* Cursor: Move the cursor to scroll through cache files.
 
 = Limitations =
+The memory management is not quite optimized yet so the explorer will probably bust if you try to load a huge number of files.
