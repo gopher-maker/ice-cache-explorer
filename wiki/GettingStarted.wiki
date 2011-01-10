@@ -1,15 +1,29 @@
 #labels Phase-Deploy
 Instructions how to get going with ICExplorer
 
+=Requirements=
+These items are required by ICE Cache Explorer and neesd to be installed first:
+
+*PyOpenGL
+*PyQt
+*Numpy
+
 = Installation =
-tbd
-= How to run =
-tbd
+Download the latest zip-file and run "python iceexplorer.py".
+
 = Loading ICECache data =
-tbd
+You can either load a folder containing .icecache files or an individual .icecache file. 
+File | Load Cache File ... 
+File | Load Cache Folder ... 
+
 = Viewing =
-tbd
+You can navigate the 3D view with one od these tools: pan, orbit and zoom. They are all located in the 'Tools' toolbar. You can use view presets to display the ICE cache data: perspective, top, front, right: The presets can be selected in the 'View' toolbar.
+ 
 = Browser =
-tbd
+The Browser window contains a tree widget used for listing .icecache files information. The information can be re displayed in a tree view control van be browsed 
 = Export to ascii =
 tbd
+
+= Playback =
+The play back window allows you to can be used to play back the icecache files frame by frame  all loaded 
+= Limitations =
