@@ -51,4 +51,4 @@ The play back window allows you to animate a sequence of cache files.
 
 = Limitations =
  # The memory management is not quite optimized yet so the explorer will probably bust the memory if you try to load a huge number of files.
- # Supported attributes: PointPosition, Color
+ # The 3D viewer supports these attributes only: PointPosition, Color
