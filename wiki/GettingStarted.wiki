@@ -4,9 +4,9 @@ Instructions how to get going with ICE Explorer
 =Requirements=
 These items are required by ICE Explorer and need to be installed first:
 
- * PyOpenGL
- * PyQt
- * Numpy
+  PyOpenGL
+  PyQt
+  Numpy
 
 = Installation =
 Download the latest zip-file and run "python iceexplorer.py".
