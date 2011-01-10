@@ -4,7 +4,7 @@ Instructions how to get going with ICE Explorer
 =Requirements=
 These items are required by ICE Explorer and need to be installed first:
 
- * PyOpenGL
+ * [http://sourceforge.net/projects/pyopengl/ PyOpenGL]
  * PyQt
  * Numpy
 
