@@ -2,11 +2,11 @@
 Instructions how to get going with ICExplorer
 
 =Requirements=
-These items are required by ICE Cache Explorer and neesd to be installed first:
+These items are required by ICE Cache Explorer and need to be installed first:
 
- *PyOpenGL
- *PyQt
- *Numpy
+ * PyOpenGL
+ * PyQt4
+ * Numpy
 
 = Installation =
 Download the latest zip-file and run "python iceexplorer.py".
