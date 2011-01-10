@@ -36,7 +36,7 @@ You can also export caches from the Browser window by right-clicking on a Cache 
 =Playback=
 The play back window allows you to animate a sequence of cache files. 
 
-+==Controls==+
+==Controls==
  * > Play a sequence. Releasing the button stops the sequence.
  * >. Play one frame forward.
  * .< Play one frame backward.
