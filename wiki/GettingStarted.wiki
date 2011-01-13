@@ -1,4 +1,4 @@
-#labels Phase-Deploy
+#labels Phase-Deploy,Featured
 Instructions how to get going with ICE Explorer
 
 =Requirements=
