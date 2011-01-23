@@ -6,7 +6,7 @@ Here are some features I wish to add to the first beta...or so
  # Preferences dialog
  # Playback reverse
  # multi-processing loading
- # multi-processing 
+ # multi-processing exporting
  # 2D display view (for camera view, tool mode, etc...)
  # Cancel loading process 
  # Lazy data loading in browser
