@@ -1,9 +1,6 @@
-#summary One-sentence summary of this page.
-
 Here are some features I wish to add to the first beta...or so
 
-= Details =
-Beta features not listed in order of importance:
+= Beta TODO list =
 
  # Export/Load multi-files
  # Preferences dialog
