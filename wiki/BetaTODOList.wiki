@@ -1,0 +1,22 @@
+#summary One-sentence summary of this page.
+
+Here are some features I wish to add to the first beta...or so
+
+= Details =
+Beta features not listed in order of importance:
+
+# Export/Load multi-files
+# Preferences dialog
+#Playback reverse
+#multi-processing loading
+#multi-processing exporting
+#2D display view (for camera view, tool mode, etc...)
+#Cancel loading process 
+#Lazy data loading in browser
+#command line parser for icereader.py
+#enable mouse wheels for tools
+#Scene persistence for quick reload (see pytables)
+#New cache management with pytables
+#Type to string maps for export
+#2D Array ICECache Type support
+#Size attribute support with GLSL drawing
