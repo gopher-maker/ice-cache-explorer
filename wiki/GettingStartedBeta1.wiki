@@ -25,12 +25,6 @@ Or one or multiple .icecache files.
 = Drag and Drop =
 .icecache file(s) or folder can also be drag and dropped on the 3D view as an alternative for loading files.
 
-= Viewing =
-You can navigate in the 3D view with one of these tools: pan, orbit and zoom. They are all located in the 'Tools' toolbar. You can use presets to set the 3D view: perspective, top, front, right. These presets can be selected from the 'View' toolbar.
- 
-= Browser =
-The Browser window contains a tree widget for listing .icecache files information. The widget is updated when the cache files are being loaded, since attribute values can be quite large, they are not loaded automatically. You can load them individually with the 'Display Data' context menu: right-click on the Attribute tree item. You can also display all attribute data of a cache: right-click on the Cache tree item.
-
 = Export to ascii =
 Cache files can be exported to ascii files:
  * File | Export Cache Folder ...
@@ -41,7 +35,13 @@ note: The target folder is currently hardcoded to 'c:\temp'.
 You can also export caches from the Browser window: right-click on a Cache or Attribute item. 
 
 =Cancel operation=
-File export or load operations can be stopped by clicking on the Cancel button located in the File toolbar or by selecting the File|Cancel menu item.
+File export and load operations can be stopped by clicking on the Cancel button located in the File toolbar or by selecting the File|Cancel menu item.
+
+= Viewing =
+You can navigate in the 3D view with one of these tools: pan, orbit and zoom. They are all located in the 'Tools' toolbar. You can use presets to set the 3D view: perspective, top, front, right. These presets can be selected from the 'View' toolbar.
+ 
+= Browser =
+The Browser window contains a tree widget for listing .icecache files information. The widget is updated when the cache files are being loaded, since attribute values can be quite large, they are not loaded automatically. You can load them individually with the 'Display Data' context menu: right-click on the Attribute tree item. You can also display all attribute data of a cache: right-click on the Cache tree item.
  
 =Playback=
 The play back window allows you to animate a sequence of cache files. 
