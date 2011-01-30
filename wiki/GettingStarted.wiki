@@ -12,7 +12,7 @@ These items are required by ICE Explorer and need to be installed first:
 Download the latest zip-file 
 
 =How To Run=
-python iceexplorer.py
+python main.py
 
 = Loading ICECache Data =
 You can either load a folder containing a sequence of .icecache files:
