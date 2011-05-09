@@ -7,6 +7,7 @@ These items are required by ICE Explorer and need to be installed first:
  * [http://sourceforge.net/projects/pyopengl/ PyOpenGL]
  * [http://www.riverbankcomputing.co.uk/software/pyqt/download PyQt]
  * [http://sourceforge.net/projects/numpy/files/ NumPy]
+ * [https://code.google.com/p/h5py/downloads/list H5py]
 
 = Installation =
 Download ice-cache-explorer-beta-1.zip
