@@ -9,6 +9,10 @@ These items are required by ICE Explorer and need to be installed first:
  * [http://sourceforge.net/projects/numpy/files/ NumPy]
  * [https://code.google.com/p/h5py/downloads/list H5py]
 
+Note: to avoid compiling these modules you can download precompiled versions from this site:
+
+http://www.lfd.uci.edu/~gohlke/pythonlibs/
+
 = Installation =
 Download ice-cache-explorer-beta-2.zip
 
